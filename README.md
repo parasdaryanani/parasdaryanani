@@ -20,15 +20,15 @@
       <td>
         <ul>
             <li>C#</li>
-            <li>PHP</li>
             <li>JavaScript</li>
             <li>Python</li>
+            <li>PHP</li>
         </ul>
       </td>
       <td>
         <ul>
             <li>React Native</li>
-            <li>DNN Platform</li>
+            <li><a href="https://github.com/dnnsoftware/Dnn.Platform">DNN Platform</a></li>
             <li>WordPress</li>
         </ul>
         </td>
